@@ -1,0 +1,73 @@
+name: hermes-gold
+description: Hermes Agent reference palette — warm gold on charcoal
+
+colors:
+  # Core surfaces sampled from the supplied Hermes Agent references.
+  background: "#141414"
+
+  # Brand accents.
+  ui_accent: "#FFD800"
+  banner_accent: "#FFD800"
+  ui_tool: "#FFD800"
+  ui_thinking: "#CD8032"
+
+  # Text hierarchy.
+  banner_title: "#E9E4DC"
+  banner_text: "#E9E4DC"
+  ui_primary: "#E9E4DC"
+  ui_text: "#E9E4DC"
+  ui_label: "#FFBE00"
+  banner_dim: "#8C8C8D"
+
+  # Borders and chrome.
+  banner_border: "#484122"
+  ui_border: "#484122"
+  prompt: "#E9E4DC"
+  input_rule: "#CD8032"
+  response_border: "#FFD800"
+
+  # Semantic states remain recognizable while staying warm and muted.
+  ui_ok: "#78A978"
+  ui_warn: "#FFBE00"
+  ui_error: "#EF635E"
+
+  # Status bar and session chrome.
+  status_bar_bg: "#09090D"
+  status_bar_text: "#DBDDE1"
+  status_bar_strong: "#FFD800"
+  status_bar_dim: "#8C8C8D"
+  status_bar_good: "#78A978"
+  status_bar_warn: "#FFD800"
+  status_bar_bad: "#CD8032"
+  status_bar_critical: "#EF635E"
+  session_label: "#FFBE00"
+  session_border: "#484122"
+
+  # Menus, selection, and secondary surfaces.
+  voice_status_bg: "#09090D"
+  completion_menu_bg: "#1B1B1D"
+  completion_menu_current_bg: "#272729"
+  completion_menu_meta_bg: "#1B1B1D"
+  completion_menu_meta_current_bg: "#272729"
+  selection_bg: "#484122"
+  shell_dollar: "#FFD800"
+
+  # Diffs and code syntax.
+  diff_added: "#173622"
+  diff_removed: "#3D1E1E"
+  diff_added_word: "#78A978"
+  diff_removed_word: "#EF635E"
+  syntax_string: "#FFD800"
+  syntax_number: "#E9E4DC"
+  syntax_keyword: "#CD8032"
+  syntax_comment: "#8C8C8D"
+
+branding:
+  agent_name: "Hermes Agent"
+  welcome: "Welcome to Hermes Agent! Type your message or /help for commands."
+  goodbye: "Goodbye! ⚕"
+  response_label: " ⚕ Hermes "
+  prompt_symbol: "❯"
+  help_header: "(^_^)? Available Commands"
+
+tool_prefix: "┊"

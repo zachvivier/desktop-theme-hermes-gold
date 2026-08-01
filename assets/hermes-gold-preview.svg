@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Hermes Gold theme preview</title>
+  <desc id="desc">Warm gold and amber typography on charcoal with palette swatches.</desc>
+  <rect width="1600" height="900" fill="#141414"/>
+  <rect x="54" y="54" width="1492" height="792" rx="28" fill="#1B1B1D" stroke="#484122" stroke-width="3"/>
+  <rect x="54" y="54" width="1492" height="90" rx="28" fill="#09090D"/>
+  <rect x="54" y="116" width="1492" height="28" fill="#09090D"/>
+  <circle cx="104" cy="99" r="10" fill="#FFD800"/>
+  <text x="132" y="110" fill="#E9E4DC" font-family="SFMono-Regular, Menlo, monospace" font-size="34" font-weight="700">HERMES AGENT</text>
+
+  <text x="130" y="310" fill="#FFD800" font-family="Inter, Helvetica, Arial, sans-serif" font-size="126" font-weight="800" letter-spacing="-6">Hermes Gold</text>
+  <text x="136" y="382" fill="#CD8032" font-family="SFMono-Regular, Menlo, monospace" font-size="34">warm gold on charcoal</text>
+  <text x="136" y="478" fill="#E9E4DC" font-family="Inter, Helvetica, Arial, sans-serif" font-size="42">Desktop · TUI · CLI</text>
+  <text x="136" y="536" fill="#8C8C8D" font-family="Inter, Helvetica, Arial, sans-serif" font-size="27">A custom skin for Hermes Agent</text>
+
+  <g transform="translate(136 630)">
+    <rect x="0" y="0" width="165" height="108" rx="14" fill="#FFD800"/>
+    <rect x="185" y="0" width="165" height="108" rx="14" fill="#FFBE00"/>
+    <rect x="370" y="0" width="165" height="108" rx="14" fill="#CD8032"/>
+    <rect x="555" y="0" width="165" height="108" rx="14" fill="#E9E4DC"/>
+    <rect x="740" y="0" width="165" height="108" rx="14" fill="#8C8C8D"/>
+    <rect x="925" y="0" width="165" height="108" rx="14" fill="#484122"/>
+    <rect x="1110" y="0" width="165" height="108" rx="14" fill="#09090D" stroke="#484122" stroke-width="2"/>
+
+    <g fill="#E9E4DC" font-family="SFMono-Regular, Menlo, monospace" font-size="18" text-anchor="middle">
+      <text x="82" y="143">#FFD800</text>
+      <text x="267" y="143">#FFBE00</text>
+      <text x="452" y="143">#CD8032</text>
+      <text x="637" y="143">#E9E4DC</text>
+      <text x="822" y="143">#8C8C8D</text>
+      <text x="1007" y="143">#484122</text>
+      <text x="1192" y="143">#09090D</text>
+    </g>
+  </g>
+</svg>
