@@ -2,7 +2,7 @@
 
 ![Hermes Gold palette preview](assets/hermes-gold-preview.png)
 
-A warm gold-on-charcoal theme for [Hermes Agent](https://github.com/NousResearch/hermes-agent). It provides coordinated colors across the **native desktop app, TUI, CLI, and web dashboard**.
+A warm gold-on-charcoal theme for [Hermes Agent](https://github.com/NousResearch/hermes-agent). It provides coordinated colors across the **native desktop app, TUI, CLI, and web dashboard**, plus a custom pixel-art **HERMES / AGENT** banner logo.
 
 ## Palette
 

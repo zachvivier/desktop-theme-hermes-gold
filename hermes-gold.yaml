@@ -71,3 +71,17 @@ branding:
   help_header: "(^_^)? Available Commands"
 
 tool_prefix: "┊"
+
+# Chunky geometric wordmark inspired by the Hermes Agent display lettering.
+banner_logo: |
+  [bold #FFD800]██  ██  ██████  ██████  ██      ██  ██████  ██████[/]
+  [bold #FFD800]██  ██  ██      ██  ██  ████  ████  ██      ██    [/]
+  [bold #FFD800]██████  ████    ██████  ██  ██  ██  ████    ██████[/]
+  [bold #FFD800]██  ██  ██      ██  ██  ██      ██  ██          ██[/]
+  [bold #FFD800]██  ██  ██████  ██  ██  ██      ██  ██████  ██████[/]
+
+  [bold #FFD800]  ████    ██████  ██████  ██      ██  ██████[/]
+  [bold #FFD800]██    ██  ██      ██      ████    ██    ██  [/]
+  [bold #FFD800]████████  ██  ██  ████    ██  ██  ██    ██  [/]
+  [bold #FFD800]██    ██  ██  ██  ██      ██    ████    ██  [/]
+  [bold #FFD800]██    ██  ██████  ██████  ██      ██    ██  [/]
