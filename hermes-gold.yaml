@@ -72,13 +72,16 @@ branding:
 
 tool_prefix: "┊"
 
-# Compact geometric wordmark approved against the Hermes Agent reference.
+# Compact geometric wordmark with a terminal-safe metallic/beveled treatment.
+# Each row is a separate ANSI/Rich color band: dark rim, bright reflection,
+# warm face, lower shadow, and deep edge. No raster/truecolor graphics required.
 banner_logo: |
-  [bold #FFD800]█  █ ████ ███  █  █ ████ ████      ██  ████ ████ █  █ ████[/]
-  [bold #FFD800]█  █ █    █  █ ████ █    █        █  █ █    █    ██ █  ██[/]
-  [bold #FFD800]████ ███░ ███  █ ██ ███░ ████     ████ █░██ ███░ █ ██ ░██░[/]
-  [bold #FFD800]█  █ █░░░ █░█░ █░░█ █░░░ ░░░█     █░░█ █░░█ █░░░ █░ █ ░██░[/]
-  [bold #FFD800]█░░█ ████ █░░█ █░░█ ████ ████     █░░█ ████ ████ █░░█ ░██░[/]
+  [bold #6B4300]█  █ ████ ███  █  █ ████ ████      ██  ████ ████ █  █ ████[/]
+  [bold #FFF0A0]█  █ █    █  █ ████ █    █        █  █ █    █    ██ █  ██[/]
+  [bold #FFD83D]████ ███░ ███  █ ██ ███░ ████     ████ █░██ ███░ █ ██ ░██░[/]
+  [bold #D99A00]█  █ █░░░ █░█░ █░░█ █░░░ ░░░█     █░░█ █░░█ █░░░ █░ █ ░██░[/]
+  [bold #A96A00]█░░█ ████ █░░█ █░░█ ████ ████     █░░█ ████ ████ █░░█ ░██░[/]
+  [bold #6B4300]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/]
 
 banner_hero: |
   [#8B6914]⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⡀⠀⣀⣀⠀⢀⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀[/]
