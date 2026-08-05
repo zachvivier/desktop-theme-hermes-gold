@@ -4,6 +4,14 @@
 
 A warm gold-on-charcoal theme for [Hermes Agent](https://github.com/NousResearch/hermes-agent). It provides coordinated colors across the **native desktop app, TUI, CLI, and web dashboard**, plus a custom pixel-art **HERMES / AGENT** banner logo.
 
+## TUI preview
+
+Hermes Gold applied to the native Hermes Agent TUI:
+
+![Hermes Agent TUI using Hermes Gold](assets/hermes-gold-tui.png)
+
+*Captured with Hermes Agent v0.20.0 (2026.8.3).*
+
 ## Palette
 
 | Role | Color |
