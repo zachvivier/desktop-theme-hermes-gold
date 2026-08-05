@@ -8,9 +8,9 @@ A warm gold-on-charcoal theme for [Hermes Agent](https://github.com/NousResearch
 
 Hermes Gold applied to the native Hermes Agent TUI:
 
-![Hermes Agent TUI using Hermes Gold](assets/hermes-gold-tui.png)
+![Hermes Agent TUI using Hermes Gold, including the metallic wordmark](assets/hermes-gold-tui.png)
 
-*Captured with Hermes Agent v0.20.0 (2026.8.3).*
+*Captured with Hermes Agent v0.20.0 (2026.8.3); shows the terminal-safe metallic wordmark treatment.*
 
 ## Palette
 
